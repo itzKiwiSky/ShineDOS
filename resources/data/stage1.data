@@ -1,0 +1,15 @@
+{
+    "state1" : {
+        "content" : [
+            "this is a test",
+            "maybe it will broke the line :D"
+        ],
+        "options" : [
+            "go left",
+            "say hi"
+        ],
+        "awaitOptions" : [
+            
+        ]
+    }
+}
